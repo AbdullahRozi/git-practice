@@ -1,0 +1,15 @@
+  Next WEEK TO DO:
+  1. learn and use the public directory .
+  2. update the compressor pages locally and make it ready for the page to deploy.
+  3. For the compressor try to find such tool that actually tell that does this content is how much written by ai ,
+     and actually tell that how much this content is valuable for the google and how much it will rank it?
+  4. 
+
+
+Step 2: SEO & Open Graph Tags (For zrekot.com)
+Step 3: Turn on SIMD (Super-Fast WASM)
+Step 4: Add a "Clear" and "Reprocess" State
+
+
+My recommendation: Start with Scrawly or LibreCrawl for a comprehensive, unlimited technical crawl of your site.
+ Use SEOptimer or SEO Audit Pro for quick, on-page checks as you build out the new /convert/ pages.
